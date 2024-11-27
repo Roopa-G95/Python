@@ -1,0 +1,5 @@
+print('Roopa')
+print('sahana')
+print('*python%')
+print('I_love_python')
+print('$%678()')
